@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 def chatbot_page():
-    openai.api_key = "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"
+    openai.api_key = "API-KEY"
 
   
     st.header("💉 Anesthesia Chatbot")
